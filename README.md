@@ -15,7 +15,7 @@
 
 
 
-Se le han dados los fuentes de un avance parcial de una plataforma de foros en línea. En esta plataforma los usuarios podrán plantear preguntas (entrada foro), y éstos mismos podrán registrar comentarios sobre las mismas.
+Se le han dado los fuentes de un avance parcial de una plataforma de foros en línea. En esta plataforma los usuarios podrán plantear preguntas (entrada foro), y éstos mismos podrán registrar comentarios sobre las mismas.
 
 Para el Sprint en curso, se han seleccionado las siguientes historias de usuario del Backlog de producto:
 
@@ -61,7 +61,7 @@ Mostrar los foros que contengan entradas con malas palabras: carambolas y recorc
 
 2.  (40%) Implemente la historia de usuario #1, agregando todo lo que haga falta en la capa de presentación, lógica y de persistencia. La vista debe implementarse en consultaEntradasForo.xhtml.
 
-3.  (40%)Implemente la historia de usuario #3, agregando todo lo que haga falta en la capa de presentación, lógica y de persistencia. La vista debe implementarse en consultarForosADepurar.xhtml.
+3.  (40%)Implemente la historia de usuario #2, agregando todo lo que haga falta en la capa de presentación, lógica y de persistencia. La vista debe implementarse en consultarForosADepurar.xhtml.
 
 
 ## Entrega
