@@ -39,7 +39,7 @@ Para el Sprint en curso, se han seleccionado las siguientes historias de usuario
   >
   > **Para** Conocer con rapidez qué foros debo revisar y tomar medidas al respecto.
   >
-  > **Criterio de aceptación:** El reporte NO debe requerir entrar parámetro alguno. Se considerarán como palabras vulgares: 'recorcholis' y 'carambolas'. El reporte sólo debe contener el identificador de foro y el número de comentarios con palabras vulgares encontrados en el mismo.
+  > **Criterio de aceptación:** El reporte NO debe requerir entrar parámetro alguno. Se considerarán como palabras vulgares: 'recorcholis' y 'carambolas'. El reporte sólo debe contener el identificador de foro y la fecha de creación del mismo, ordenados del foro más reciente al más antíguo.
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 El modelo de base de datos y de clases asociados a la implementación parcial son los siguientes:
